@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegies on the much lamented death of the Right Honorable the Earl of Mountrath</title>
+            <author>Jones, John.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09326</idno><idno type="EEBO-CITATION">62369362</idno>
+  <idno type="VID">187967</idno>
+  <idno type="EEBO-PROQUEST">2240859612</idno>
+  
+            <idno type="STC">Wing J977A</idno>
+            <idno type="STC">ESTC R179027</idno>
+            <idno type="OCLC">62369362</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187967)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegies on the much lamented death of the Right Honorable the Earl of Mountrath</title>
+                  <author>Jones, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook, Printer to the Kings Most Ecellent Majesty and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mountrath, Charles Coote, --  Earl of, ca. 1610-1661.</term>
+               <term type="topical_term">Elegiac poetry, English --  Ireland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:187967:1"/>
+            <p>ELEGIES ON THE, Much lamented Death of the Right Honorable the EARL OF Mountrath.</p>
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings most Ex<g ref="char:EOLhyphen"/>cellent Majesty: And are to be sold by <hi>Samuel Dancer,</hi> Bookseller in <hi>Castle-street.</hi> 1661.</p>
+            <pb facs="tcp:187967:2"/>
+            <pb facs="tcp:187967:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:187967:3"/>
+            <pb facs="tcp:187967:3"/>
+            <head>AN ELEGIE ON THE Happy Memory of the Right Honorable Sir Charles Coote Knight and Baronet, Earl of <hi>Mountrath,</hi> Viscount of <hi>Castle-Coote,</hi> Baron of <hi>Castle-Cuff,</hi> Lord President of <hi>Connaught,</hi> and one of the Lords Justices of <hi>Ireland</hi>
+            </head>
+            <lg>
+               <l>WHen <hi>Caesars</hi> die, Fates Ceremonies are</l>
+               <l>To complement them with an Ush'ring Star:</l>
+               <l>As in fair Books black patches now and then</l>
+               <l>Do reconcile the losses of the Pen:</l>
+               <l>So Nature doth on purpose Ast'risks wear,</l>
+               <l>To show that something is deficient there.</l>
+            </lg>
+            <lg>
+               <l>But yet <hi>Mountrath</hi> is gone; nor does the hair</l>
+               <l>Of any flaming beard affright the air.</l>
+               <l>
+                  <hi>Atropos</hi> shav'd the Comets sure, to show</l>
+               <l>That when he dies, the Stars themselves die too.</l>
+               <l>Or else his modest Harbinger forbore</l>
+               <l>To boast a sight, least that we should adore.</l>
+            </lg>
+            <lg>
+               <l>Death play'd the wanton here, to swallow down</l>
+               <l>The <hi>Cleopatran</hi> Jewels of the Crown.</l>
+               <l>She like a daring <hi>Scaevola,</hi> did contrive</l>
+               <l>To take away the KING; but He's alive.</l>
+               <l>For not the Fates themselves have pow'r o'er Him,</l>
+               <l>But pay Allegiance to His Diadem.</l>
+               <pb n="2" facs="tcp:187967:4"/>
+               <l>Yet though she err'd, she's not mistaken, since</l>
+               <l>She has hit CHARLS, although she mist the Prince.</l>
+               <l>'Twas like the fatal stroak was giv'n by <hi>Cain,</hi>
+               </l>
+               <l>In Him the third part of our World was slain.</l>
+               <l>Nay more; for all had perish'd, but that He</l>
+               <l>Breaths still in <hi>Eustace</hi> and in <hi>Orrery.</hi>
+               </l>
+               <l>
+                  <hi>Sejanus</hi> thus grown Darling unto Fame,</l>
+               <l>When every Stone and Statue learn'd his Name;</l>
+               <l>Nay, Altars were prepar'd by giddy <hi>Rome,</hi>
+               </l>
+               <l>To make it smell the sweeter by perfume;</l>
+               <l>Just like a Phoenix in his Incense dies,</l>
+               <l>And falls himself to Fate a Sacrifice.</l>
+               <l>In Fame and Fate we meet his Parallel;</l>
+               <l>So fell the Great <hi>Sejanus:</hi> so <hi>Coote</hi> fell.</l>
+               <l>The diff'rence is, the first had fame, ('tis true;)</l>
+               <l>The last had Honour, and deserv'd it too:</l>
+               <l>Nay more; <hi>Sejanus</hi> fell, Statues and all:</l>
+               <l>But <hi>Coote</hi> rebounds the higher by his fall.</l>
+               <l>They laught at Him; but here the People do</l>
+               <l>Not onely mourn <hi>Cootes</hi> death, but Caesar too.</l>
+            </lg>
+            <lg>
+               <l>Ambitious Fate by this unhappy stroak,</l>
+               <l>Has lop'd an Arm from off the Royal Oak:</l>
+               <l>The Oak that CHARLS lay hid in; whose true brest</l>
+               <l>Rejoyc'd to lodg the Eagle in a nest.</l>
+            </lg>
+            <lg>
+               <l>As far as wisdom suffer'd, He withstood,</l>
+               <l>B'ing Best, when 'twas a sin to be but Good;</l>
+               <l>He liv'd true to his King, and to his Cause;</l>
+               <l>Defended English Faith and English Laws.</l>
+               <l>And may his Soul by Proxy ever live</l>
+               <l>I' th' noble Brest where still it doth survive.</l>
+               <l>There is no eye that's so Heretical,</l>
+               <l>But wou'd drop Holy-water at his Fall.</l>
+               <pb n="3" facs="tcp:187967:4"/>
+               <l>The Protestants in him did mourn their loss;</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Papists lov'd him, as they lov'd a Cross.</l>
+               <l>But why should we desire <hi>Mountrath</hi> to stay?</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth' Potter of his Soul, who 'd not leave Clay?</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will not drown his Urn, onely we must</l>
+               <l>
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>some obsequious drops to lay his dust:</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ose sacred relicks they that won't adore,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> needs be thought Idolaters the more.</l>
+               <l>
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll run oth' score with Grief, and Sackcloth borrow,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e Death provides such Ashes for our sorrow.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>'cause that silence speaks the waters deep,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ll mourn within, and not disturb his sleep.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen let him rest, untill the Lamb shall say,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy Winter's Spring, sins night is turn'd to day;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rise my Love, my Dove, and come away.</l>
+            </lg>
+            <closer>
+               <signed>Jo. Jones.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="elegy">
+            <head>IN EUNDEM, HIBERNIAE ΘΡΗΝΩΔΙΑ.</head>
+            <lg>
+               <l>Ter <hi>Montrathiam</hi> signavit calculus urnam,</l>
+               <l>Et <hi>Carolina</hi> gemit funere manca Trias.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> praelata juvat, letho Lictore, Securis?</l>
+               <l>Fasces, Consul, sentiat ipse suos.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riumphales dignus conscendere currus.</l>
+               <l>
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>istia, deceptus Morte, Feretra subit.</l>
+               <l>
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ntes Lauris immiscuit illa Cupressos,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ntrathius</hi> Comes est, &amp; meus, inquit, erit.</l>
+               <l>
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tum quis non potuit praedicere, Θητα</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i finem Tituli viderit esse novi.</l>
+               <l>
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or nunquam, nec amantior umbra recessit,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is erat, sed non unius Orbis Amor.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> purpureo quod plurima sedit in ore,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diae non est hoc, sed Amoris opus.</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>thium</hi> certe vel morbus amavit, &amp; ergo</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dit pulchris oscula tanta genis.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="dialogue">
+            <pb n="4" facs="tcp:187967:5"/>
+            <head>Hiberniae &amp; Mortis <hi>DIALOGUS.</hi>
+            </head>
+            <sp>
+               <speaker>Hibernia.</speaker>
+               <lg>
+                  <l>CƲr non indulges <hi>Carolinae</hi> saevior umbrae?</l>
+                  <l>Foelices poterat quae meruisse moras.</l>
+                  <l>Cur regni cecidit pars tertia? sanguine vestram</l>
+                  <l>Non alio poteras exsatiare sitim?</l>
+                  <l>Quid nostrae marcet dulcissima cura Coronae?</l>
+                  <l>Et geminis <hi>Caroli</hi> vivere digna rosis?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mors.</speaker>
+               <lg>
+                  <l>Quid frustrà tua fata doles improvida? Falci</l>
+                  <l>Summittit flores &amp; Diadema suos.</l>
+                  <l>Ille fuit vestri (fateor) Flos Gloria campi,</l>
+                  <l>Sed tamen Elysio dignior ergò fuit.</l>
+                  <l>An caecam nescis Lachesin, quae stamina versat,</l>
+                  <l>Ex auro filum sit licèt, illa secat.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hibernia.</speaker>
+               <lg>
+                  <l>Non mihi quod Lachesis tua, Mors, sit caeca dolebit,</l>
+                  <l>Sed quòd ego jam sum caeca futura dolet:</l>
+                  <l>At nostros sine luce oculos cur ambio? noster</l>
+                  <l>
+                     <hi>Montrathius</hi> Sol est, <hi>Montrathiúsque</hi> Dies.</l>
+                  <l>In freta quin abeant duo, lumina nostra, doloris</l>
+                  <l>Hisque erit Oceanis, ejus arena, cinis.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mors.</speaker>
+               <lg>
+                  <l>Sic urnas ludunt fugitivis Belides undis,</l>
+                  <l>Ʋmbram, crede mihi, nec freta bina lavant.</l>
+                  <l>
+                     <hi>Montrathii,</hi> vestrae fuerint si flumina, guttam</l>
+                  <l>Addere Clepsidrae non potuere genae:</l>
+                  <pb n="5" facs="tcp:187967:5"/>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ec prece, nec lachrymis, Adamantina fata liquescunt;</l>
+                  <l>Pervenit ad surdas nulla querela Deas.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hibernia.</speaker>
+               <lg>
+                  <l>Surdescant Parcae, at certè mea pectora tangit,</l>
+                  <l>Haec, illae, vitam quam vetuere, dabunt.</l>
+                  <l>Tam charum nobis caput est flevisse voluptas,</l>
+                  <l>Gaudia dat, quamvis gaudia moesta, dolor.</l>
+                  <l>Saeva licèt sint Fata, adeò crudelia cur sint?</l>
+                  <l>Tam numerosam, unâ, cur statuere necem?</l>
+                  <l>Si nollent illi, at saltem mihi parcere possint,</l>
+                  <l>Quid nostras armant in sua damna genas?</l>
+                  <l>Quid nobis fieri nos cogunt fata, volebant</l>
+                  <l>Invida diluvio quemque perire suo.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mors.</speaker>
+               <lg>
+                  <l>Ipsa leves gemitus, omni sine pondere fundis,</l>
+                  <l>Vitae, umbrâ hac, non est linea tacta, tuae.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hibernia.</speaker>
+               <lg>
+                  <l>Occubuit dilecta, animae &amp; pars optima nostrae,</l>
+                  <l>Vivere, non vitam, sed valuisse reor.</l>
+                  <l>Invida ludentis Mortis ludibria! vitam</l>
+                  <l>Ipsa aufers, &amp; me vivere saeva jubes.</l>
+                  <l>Sed quibus insidiis vicisti subdola Fortem?</l>
+                  <l>Nam certum est bello non cecidisse pari.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mors.</speaker>
+               <lg>
+                  <l>Martem, stulta, tuum Parcae sine Marte domabunt,</l>
+                  <l>Nec mens, Herculeae nec valuere manus.</l>
+                  <l>Non tantum Lydiae persolvit pensa Puellae</l>
+                  <l>Alcides, aliâ subditus ille colo est.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hibernia.</speaker>
+               <lg>
+                  <l>Si nil profuerant vires, neque pectoris aestus,</l>
+                  <l>At poterat tetricas forma movere Deas.</l>
+                  <l>Et movit tua forma Deas, tua forma sorores;</l>
+                  <pb n="6" facs="tcp:187967:6"/>
+                  <l>Incidit in flammas Atropos ipsa tuas.</l>
+                  <l>Ille rubor vultûs, &amp; vivus candor, amicas</l>
+                  <l>Qui poterant flammis conciliare nives:</l>
+                  <l>Illi te rapiunt, te formosissime perdunt,</l>
+                  <l>Materies Forma est, Funeris una tui.</l>
+                  <l>Ah Fatis utinam fueris, Comes inclyte, charus</l>
+                  <l>Aut minùs, aut fatis charior ipse tuis.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mors.</speaker>
+               <lg>
+                  <l>Quin tristes noli toties animare querelas,</l>
+                  <l>Spirabit gemitu non magis ille tuo.</l>
+                  <l>Quem dilexisti, cur sic odisse videris,</l>
+                  <l>Hostis nè vester sit, rationis amor.</l>
+                  <l>Ipso dignus erat, vel te, tibi, judice, Coelo;</l>
+                  <l>Quid cupis ingratas nectere fata moras?</l>
+                  <l>Suscepturus iter conscendit Plaustra; Booten</l>
+                  <l>Hunc voluit <hi>Carolus</hi> syderis esse sui.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hibernia.</speaker>
+               <lg>
+                  <l>Indefessa suos siccant suspiria nimbos,</l>
+                  <l>Quae fudit, sparsas, cura, serenat aquas:</l>
+                  <l>Nè sacram forsan madidus dolor obruat urnam,</l>
+                  <l>Plus satis est, passum hunc, vel semel esse necem.</l>
+                  <l>Ambitiosa pedes jam lambunt sydera; coeli</l>
+                  <l>Te digni, coelis tu quoque dignus eras.</l>
+                  <l>Sed tamen in coelos utinámque &amp; serius isses,</l>
+                  <l>Ʋt fieret vestris terra beata moris.</l>
+                  <l>At Coelo potiare tuo, modò parcat Iërnae,</l>
+                  <l>Pro te, si coelis invidet illa tuis.</l>
+               </lg>
+            </sp>
+            <closer>
+               <signed>
+                  <hi>Jo. Jones,</hi> Trin. Col. in Art. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
